@@ -1,0 +1,11 @@
+{
+  "name": "tip-calc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ljgalaty/tip-calc.git",
+  "author": "ljgalaty <laurel.galaty@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
